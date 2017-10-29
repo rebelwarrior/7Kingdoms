@@ -61,3 +61,13 @@ Wizard Kingdom: Everything is grown here, if you look hard enough. But as a king
 
 **Inhospitable Dungeons:** Treasures lie in dungeons because they're not easy to get. Either they are guarded or maybe because traveling below the earth in stifling air, and possibly toxic circumstances can be injurious to one's health. Some dungeons don't have enough air to breath, or the air is tainted with poisonous spores or their fragmented floors make walking treacherous and sharp edges likely to bite and tear and extract a price of those that delve into them.  
 Making camp in an inhospitable environment is impossible.
+
+---
+[sandkingdom]: ./location_images/SandKingdom.jpg "Sand Kingdom"
+[wizardcity]:  ./location_images/wizkingimages.jpg "Wizard City"
+[cloudkingdom]:  ./location_images/nomad-heading-to-the-kingdom-28014-3840x2160.jpg "Cloud Kingdom"
+[alaria]: ./location_images/Aquilonia.jpg "Alaria"
+[dwarfkingdom]: ./location_images/DwarfKingdom.jpg "Dwarf Kingdom"
+[riverkingdom]: ./location_images/edge_of_the_mountain_kingdom_by_rachopin77-d6wa3c0.jpg  "River Kingdom"
+[desertcave]: ./location_images/turkey-capp-inside_1707916c.jpg "Desert Cave"
+[mageisland]: ./location_images/mage_island.jpg "Mage Island"

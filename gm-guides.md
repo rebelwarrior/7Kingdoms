@@ -48,4 +48,9 @@ Or...
 4. your clothes get tangled, take a -2 forward on your the next action
 5. your weapon is knocked out of your hand. -->
 
+### New Tags:  
+__Monsters:__  
+**Trample:**
+(reach) Smaller foes must move out of the way (possibly with defy danger) or suffer normal damage. (reach range attack) Attack is always successful no roll needed, just roll for damage.
+
 ---

@@ -170,3 +170,21 @@ Since time immemorial civilized people have slept with one eye open on the horiz
 __Monsters:__  
 **Trample:**
 (reach) Smaller foes must move out of the way (possibly with defy danger) or suffer normal damage. (reach range attack) Attack is always successful no roll needed, just roll for damage.
+
+
+---
+
+[druid]: ./images/druid_by_edli-d2zocxe.jpg "Druid"
+[thief]: ./images/thief_from_the_sand_kingdom.jpg "Thief from the Sand Kingdom"
+[halflingthief]: ./images/thief_halfling.jpg "Halfling Thief"
+[kenderthief]: ./images/kender_rogue.jpg "Thief"
+[paladin]: ./images/tamisen_the_paladin_by_sirtiefling-d6vvgix.jpg "Title: Paladin"
+[ranger]: ./images/Rogue_Color_by_NuMioH.jpg "Ranger from the wilds."
+[ranger2]: ./images/Ranger.jpg "Ranger"
+[monk]: ./images/monk___17_06_12_by_lucastorquato27-d5mlyph.jpg "Monk"
+[wizard]: ./images/634x900_1686_Children_of_YagKosha_2d_fantasy_concept_art_wizard_picture_image_digital_art.jpg "Wizard"
+[elvenbard]: ./images/wood_bard_by_gugu_troll-d6c2ois.jpg "Elven Bard"
+[elvenfighter]: ./images/final_fantasy_xiv_miqo_te_paladin_3_by_wontonslol-d6ky21e.jpg "Elven Fighter"
+[dwarvenfighter]: ./images/Zarin_WIP_step01.jpg "Dwarven Fighter"
+[dwarvenexorcist]: ./images/master_dwarf_by_alexanderexorcist-d63b1gd.jpg "Dwarven Exorcist"
+[barbarian]: ./images/Barbarian_Chick_by_tiger1313-992x1481.jpg "Woman Barbarian"
