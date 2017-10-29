@@ -4,8 +4,6 @@ title: Classes
 permalink: /classes/
 ---
 
-## Classes:
-
 ## Druid:
 ![ElvenDruid][druid]
 
