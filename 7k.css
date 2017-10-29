@@ -1,0 +1,82 @@
+img{
+  text-align: center;
+  max-width:  800px;
+  max-height: 550px;
+  display:    block;
+}
+img[alt=MageIsland] {
+  max-width:  250px;
+  max-height: 250px;
+}
+img[alt=ElvenDruid] {
+  max-width:  500px;
+  max-height: 350px;
+}
+img[alt=Monk] {
+  max-width:  300px;
+  max-height: 300px;
+}
+img[alt=DwarvenFighter] {
+  max-width:  300px;
+  max-height: 300px;
+}
+img[alt=DwarvenExorcist] {
+  max-width:  400px;
+  max-height: 400px;
+}
+img[alt=Ranger2] {
+  max-width:  300px;
+  max-height: 300px;
+  float:      left;
+  margin:     10px;
+}
+img[alt=Ranger] {
+  max-width:  300px;
+  max-height: 300px;
+}
+img[alt=Barbarian] {
+  max-width:  430px;
+  max-height: 430px;
+}
+img[alt=ElvenFighter] {
+  max-width:  400px;
+  max-height: 250px;
+  float:left;
+}
+img[alt=Wizard] {
+  max-width:  400px;
+  max-height: 430px;
+}
+img[alt=Paladin] {
+  max-width:  400px;
+  max-height: 430px;
+}
+img[alt=ElvenBard] {
+  max-width:  400px;
+  max-height: 430px;
+}
+img[alt=ThiefSandKingdom] {
+  max-width:  400px;
+  max-height: 400px;
+  margin:10px;
+}
+img[alt=SandKingdom] {
+  max-width:  400px;
+  max-height: 400px;
+}
+img[alt=CloudKingdom] {
+  max-width:  400px;
+  max-height: 400px;
+}
+img[alt=Alaria] {
+  max-width:  400px;
+  max-height: 400px;
+}
+img[alt=DwarfKingdom] {
+  max-width:  400px;
+  max-height: 400px;
+}
+img[alt=RiverKingdom] {
+  max-width:  400px;
+  max-height: 400px;
+}
