@@ -137,7 +137,10 @@ They cover their faces and identities to protect their families. It can be hard 
 Some fight for glory, others for money, some even to safe-guard their families, their lands, their kingdoms, but the paladin fight for a calling to protect the defenseless.
 
 Paladins cover their hair if female, their head if male.  
+
 ![Paladin][paladin]  
+Sample Paladin image by [SirTiefling](https://sirtiefling.deviantart.com/art/Tamisen-the-Paladin-416332905)
+
 > ` "Once they guarded the most precious... maybe they still do." - Wizard Jenkins`
 
 ## Thief:
@@ -165,15 +168,8 @@ Since time immemorial civilized people have slept with one eye open on the horiz
 
 >`"Civilized nations never, never have selfish motives for butchering, raping and looting; only horrid barbarians have those..." -- Robert E. Howard`
 
----
-## New Tags:  
-__Monsters:__  
-**Trample:**
-(reach) Smaller foes must move out of the way (possibly with defy danger) or suffer normal damage. (reach range attack) Attack is always successful no roll needed, just roll for damage.
-
 
 ---
-
 [druid]: ./images/druid_by_edli-d2zocxe.jpg "Druid"
 [thief]: ./images/thief_from_the_sand_kingdom.jpg "Thief from the Sand Kingdom"
 [halflingthief]: ./images/thief_halfling.jpg "Halfling Thief"

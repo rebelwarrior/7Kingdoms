@@ -1,4 +1,10 @@
-## Races:
+---
+layout: page
+title: Races
+permalink: /races/
+---
+
+## Races
 
 |Races | Classes available |  
 |---|---|  
@@ -9,7 +15,7 @@
 |Outsider | Barbarian |  
 |Automaton | Fighter, Thief |
 
-
+---
 
 **Dwarf:**  The metal-smiths of the 7 kingdoms. And as such they have a huge preference and familiarity with hammers. They are consumed with the afterlife, which make them dour creatures. They typically can't swim and are mortified of large bodies of water. They are known to be taciturn and gruff, but are lively when drunk. While the complete opposite of Halflings in personality they are known to get along, though typically by flinging insults at each other in rapid succession. Dwarves are famously known to be the _only_ ones that can get asking-price from Halflings consistently. Dwarves hate negotiating and usually just state a price, but after half-an-hour of insults Dwarves usually get their price from Halflings merchants almost every time.
 
@@ -21,7 +27,7 @@ Halflings Druids are rare are always related to water (The Open Sea or The River
 Halfling Fighters typically use a special walking stick with a sling on top (similar to a lacrosse stick) as their signature weapon.
 Physically they look like skinny children with pointy ears. They have large feet, much larger than you'd think in proportion to their bodies, and if you look very closely you might see a few have webbed feet. Almost all Halflings can swim.
 
-**Outsider:** Many races can be outsiders, from the wild elves that escape slavery among the centaurs, to the under-dwarfs that betray their kin or even the wild-men of Nor. They are treated with dread or even repulsion by the people of the kingdom but sometimes they earn deep respect. They all share a deep sense of survival, a connection with their environments and the casual brutality of people who grow-up in harsh environments.
+**Outsider:** Many races can be outsiders, from the wild elves that escape slavery among the centaurs, to the under-dwarfs that betray their kin or even the wild-men of Nor. They are treated with dread or even repulsion by the people of the kingdoms but sometimes they earn deep respect. They all share a deep sense of survival, a connection with their environments and the casual brutality of people who grow-up in harsh environments.
 
 **Automaton:** Are they alive or dead? This sentient machines were built by ancient power a long ago and have survived multiple cataclysms. Unfortunately most are in an inactive broken state. What would happen if they were somehow fixed?
 
