@@ -126,7 +126,7 @@ Deal 1d6 touch damage heal same amount.
 ![Ranger][ranger]  
 The trackers and scouts of the 7K, they can mostly be found on the fringes of civilization or in-between places.
 
-> `"Hear me. Never flee from a Ranger. Better to face them in battle immediately than to have them find you in the middle of the night asleep."  - Stalwart Warrior`
+> `"Hear me. Never flee from a Ranger. Better to face them in battle immediately than to have them hunt you down..."  - Stalwart Warrior`
 
 ## Wizard:
 They cover their faces and identities to protect their families. It can be hard to tell if they are female or male.  
@@ -143,15 +143,18 @@ Sample Paladin image by [SirTiefling](https://sirtiefling.deviantart.com/art/Tam
 
 > ` "Once they guarded the most precious... maybe they still do." - Wizard Jenkins`
 
+
+---
 ## Thief:
-<!-- Quiet as as ghosts they prowl, maybe working for a living is not for them, maybe it is proving their worth, or maybe this is all they know how to do. Why toil in life when so many good things are just ripe for the taking?
-Maybe caravans full of riches travel your land, maybe they should pay a toll for that, and why not you to collect it? -->
+Quiet as as ghosts they prowl, maybe working for a living is not for them, maybe it is proving their worth, or maybe this is all they know how to do. Why toil in life when so many good things are just ripe for the taking?
+Maybe caravans full of riches travel your land, maybe they should pay a toll for that, and why not you to collect it?
 
 <small> Thief from the Sand Kingdom.  </small>   
 ![ThiefSandKingdom][thief]
 <small> Halfling Thief  </small>  
 ![KenderThief][kenderthief]
 
+---
 ## Bard:
 ![ElvenBard][elvenbard]  
 Bards study a magic born of nature's music.  
@@ -160,6 +163,7 @@ Arcane Art's effect from another bard is considered from a separate source and h
 
 > `"They're said to have once been students of magic that played music to pay for their studies. Then they discovered magic in music... or so the legends say..."  - a traveling bard. `
 
+---
 ## Barbarian:
 ![Barbarian][barbarian]  
 Since time immemorial civilized people have slept with one eye open on the horizon, fearing that their barbarian brethren may awaken, unite and attack with the ferociousness of the wilds they inhabit.
