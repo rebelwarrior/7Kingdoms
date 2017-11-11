@@ -5,8 +5,7 @@ permalink: /classes/
 ---
 
 ## Druid:
-![ElvenDruid][druid]
-
+<!-- ![ElvenDruid][druid] -->
 Druids also called shamans talk to the spirits of the land and can commune with the powers of the land itself to create magical effects.
 
 __Shapeshifter:__
@@ -81,8 +80,8 @@ __Blood and Thunder:__ (add this text) You may assume Were versions of animals.
 
 ---
 ## Fighter:
-![ElvenFighter][elvenfighter]
-![DwarvenFighter][dwarvenfighter]
+<!-- ![ElvenFighter][elvenfighter] -->
+<!-- ![DwarvenFighter][dwarvenfighter] -->
 
 Warriors, soldiers, and the famed defenders of the realm while many know how to fight the _fighter_ class is a true warrior, trained, honed, capable. Many fighters in the 7K don't do it as a full-time, many are farmers, builders, craftmen but all have the strength to protect civilization.
 
@@ -90,10 +89,10 @@ Warriors, soldiers, and the famed defenders of the realm while many know how to 
 
 ---
 ## Cleric (Exorcist/Necromancer):
-The cleric class is called Exorcist or Necromancer (for evil ones).
-![DwarvenExorcist][dwarvenexorcist]  
-> `"When I put you in the ground you'll stay in the ground!" - Thundar, Dwarven Exorcist`
+<!-- ![DwarvenExorcist][dwarvenexorcist]   -->
 
+The cleric class is called Exorcist or Necromancer (for evil ones).
+> `"When I put you in the ground you'll stay in the ground!" - Thundar, Dwarven Exorcist`
 A Necromancer has "Command the Undead" instead of "Turn Undead".
 
 Necromancer:  
@@ -114,26 +113,26 @@ Deal 1d6 touch damage heal same amount.
 
 ---
 ## Ranger:
-![Ranger2][ranger2]
-![Ranger][ranger]  
+<!-- ![Ranger2][ranger2] -->
+<!-- ![Ranger][ranger]   -->
 The trackers, scouts and hunters of the 7K, they can mostly be found on the fringes of civilization or in-between places. They have a connection with the land, few in civilized places do. 
 
 > `"Hear me. Never flee from a Ranger. Better to face them in battle immediately than to have them hunt you down..."  - Stalwart Warrior`
 
 ---
 ## Wizard:
+<!-- ![Wizard][wizard] -->
 Wielders of arcane arts. They cover their faces and identities to protect their families. It can be hard to tell if they are female or male.  
-![Wizard][wizard]
 > `"I don't much like them, but they come in handy in a pinch." -- Captain Friggard.`
 
 ---
 ## Paladin:
+<!-- ![Paladin][paladin]   -->
 Some fight for glory, others for money, some even to safe-guard their families, their lands, their kingdoms, but the paladin fight for a calling to protect the defenseless.
 
 Paladins cover their hair if female, their head if male.  
 
-![Paladin][paladin]  
-Sample Paladin image by [SirTiefling](https://sirtiefling.deviantart.com/art/Tamisen-the-Paladin-416332905)
+See Paladin image by [SirTiefling](https://sirtiefling.deviantart.com/art/Tamisen-the-Paladin-416332905)
 
 > ` "Once they guarded the most precious... maybe they still do." - Wizard Jenkins`
 
@@ -142,16 +141,16 @@ Sample Paladin image by [SirTiefling](https://sirtiefling.deviantart.com/art/Tam
 Quiet as as ghosts they prowl, maybe working for a living is not for them, maybe it is proving their worth, or maybe this is all they know how to do. Why toil in life when so many good things are just ripe for the taking?
 Caravans full of riches travel your land; maybe they should pay a toll for that, and why not you to collect it?
 
-> `"All adventures are thieves... just some are honest about it."` 
+> `"All adventures are thieves... just some are honest about it." – Pathfinder` 
 
-<small> Thief from the Sand Kingdom.  </small>   
+<!-- <small> Thief from the Sand Kingdom.  </small>   
 ![ThiefSandKingdom][thief]
 <small> Halfling Thief  </small>  
-![KenderThief][kenderthief]
+![KenderThief][kenderthief] -->
 
 ---
 ## Bard:
-![ElvenBard][elvenbard]  
+<!-- ![ElvenBard][elvenbard]   -->
 Bards study a magic born of nature's music.  
 **Arcane Art's** effects don't stack with multiple singing, for example a single bard can't give more that one +1d4 forward to damage to a single ally. In the case of healing once an ally has been healed they can't be healed again until their HP change either by taking more damage or by additional healing of another kind or source.   
 Arcane Art's effect from another bard is considered from a separate source and handled independently and thus may stack.
@@ -160,7 +159,7 @@ Arcane Art's effect from another bard is considered from a separate source and h
 
 ---
 ## Barbarian:
-![Barbarian][barbarian]  
+<!-- ![Barbarian][barbarian]   -->
 Since time immemorial civilized people have slept with one eye open on the horizon, fearing that their barbarian brethren may awaken, unite and attack with the ferociousness of the wilds they inhabit.
 
 > `"I'm telling you, don't mess with the barbarians. They're not only uncivilized, they have no love for civilization..." -- Ral, Inn keeper River's Den`
@@ -194,7 +193,7 @@ _Arcane Bard_ | Bard | Multiclass Dabbler | Cast Spell (Wizard)
 
 
 ---
-[druid]: ./images/druid_by_edli-d2zocxe.jpg "Druid"
+<!-- [druid]: ./images/druid_by_edli-d2zocxe.jpg "Druid"
 [thief]: ./images/thief_from_the_sand_kingdom.jpg "Thief from the Sand Kingdom"
 [halflingthief]: ./images/thief_halfling.jpg "Halfling Thief"
 [kenderthief]: ./images/kender_rogue.jpg "Thief"
@@ -207,4 +206,4 @@ _Arcane Bard_ | Bard | Multiclass Dabbler | Cast Spell (Wizard)
 [elvenfighter]: ./images/final_fantasy_xiv_miqo_te_paladin_3_by_wontonslol-d6ky21e.jpg "Elven Fighter"
 [dwarvenfighter]: ./images/Zarin_WIP_step01.jpg "Dwarven Fighter"
 [dwarvenexorcist]: ./images/master_dwarf_by_alexanderexorcist-d63b1gd.jpg "Dwarven Exorcist"
-[barbarian]: ./images/Barbarian_Chick_by_tiger1313-992x1481.jpg "Woman Barbarian"
+[barbarian]: ./images/Barbarian_Chick_by_tiger1313-992x1481.jpg "Woman Barbarian" -->
