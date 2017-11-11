@@ -1,4 +1,4 @@
-# FAQ
+# Frequently Asked Questions
 
 ### Are there other wizards?
 
@@ -14,7 +14,7 @@ From the god Pallas, maybe?
 
 ### Are salamanders known?
 
-No. A salamander (from the class Immolator) is an extra planar creature. 
+No. A salamander (from the class Immolator) is an extra planar creature and unique. 
 
 ### What about firearms?
 

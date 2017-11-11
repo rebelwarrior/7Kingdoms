@@ -7,7 +7,7 @@ permalink: /lands/
 # Campaign World 7 Kingdoms
 ## The Mountain Kingdom
 <!-- ![DwarfKingdom][dwarfkingdom] -->
-The dwarf kingdom.
+The Dwarven kingdom.
 Beyond the Alarian city states lies the tall mountain kingdom of the dwarves. Nestled in unforgiving crags and canyons, the dwarves live a life not unlike that of an Alarian city state except they have no navy and no love of water. Dwarves famously fear the ocean and few if any know how to swim. Their kingdom includes a multitude of caves and their dwellings made of rock cut into the mountain and some made to resemble caves as well. Dwarves specialize in metal work and are famously hard-working, gruff and superstitious.
 
 ## Alaria
@@ -25,8 +25,9 @@ The only kingdom that has never been conquered is also the poorest and most isol
 
 
 ## The Sand Kingdom
-Full of old ancient magic, the harsh environment...
 <!-- ![SandKingdom][sandkingdom] -->
+Full of old ancient magic, a harsh environment...
+
 Among the ruins of long forgotten Kingdoms that the great dessert swallowed long ago, is an unforgiving land. Grown barren, it is clear it was once a sea or a lake. Now scraps of humanity claim a living on the crags and remains of pasts glories. Rumors that the lost empire of Kesh lies below the forgotten sands holding countless magic and wealth can be heard in every market. Now they serve as a conduit to lands unknown beyond, where caravans bring silk, spices and foreign things. 
 <!-- ![DesertCave][desertcave] -->
 

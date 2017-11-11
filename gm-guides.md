@@ -7,7 +7,7 @@ permalink: /gm-guide/
 
 ## Threads:  
 
-Because of Dungeon World's play to find out, it is better to present threads. If you pull on any of these, the world of the 7 kingdoms will start to unravel.  
+Because of Dungeon World's play to find out, it is better to present threads. If you pull on any of these, the world of the seven kingdoms will start to unravel.  
 
 1. Stopping the Northern Dwarven Slavers
 2. Finding out what lies underneath the central sea.
@@ -25,19 +25,22 @@ Because of Dungeon World's play to find out, it is better to present threads. If
 
 Any of these actions will cause upheaval in the world. Why? Play to find out.  
 
-## Impending Dooms:
+<!-- ## Impending Dooms:
 However if nothing happens at all, these impending dooms are like water about to boil. Something must be done about them.
 
 1. The Northern Lynch's growing appetite (appetite for what? slaves? power? magic?) What does he do with the slaves?
-2. The Impending attack of the centaurs of the plains. Once the weather changes, hordes of centaurs spill out of the steppes and put pressure on all races and kingdoms.
+2. The Impending attack of the centaurs of the plains. Once the weather changes, hordes of centaurs spill out of the steppes and put pressure on all races and kingdoms. -->
 
 ## Quests:
 1. There are coins of remembering strews across the realm and each can be used to figure out any of these forgotten knowledge items.
-2. Dwarven sword-smiths are always on the lookout for magical bottles of air that they use as respirators. They pay handsomely for them and many will have leads as to where to find them.
+2. Dwarven sword-smiths are always on the lookout for magical bottles of air that they use as respirators. They pay handsomely for them and many will have leads as to where to find them. Wearing this kind of respirator they can use a volcano furnace
 
 ---
 
-## House Rules
+## House Rules:
+
+Here is an example of possible 7-9 results in combat. These are 'hard' moves, the GM may make a 'soft' one instead. 
+
 **Hard Bargains Melee**
 You attack succeeds but...
 On a 7–9, you deal your damage to the enemy and the enemy makes an attack against you.
@@ -46,7 +49,7 @@ Or...
 2. you deal -1d6 damage
 3. blood splatters in your eyes
 4. your clothes get tangled, take a -2 forward on your the next action
-5. your weapon is knocked out of your hand. -->
+5. your weapon is knocked out of your hand.
 
 ### New Tags:  
 __Monsters:__  
