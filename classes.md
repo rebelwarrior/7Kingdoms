@@ -15,9 +15,6 @@ Shapeshifting into animal form or back doesn't make you any more vulnerable to a
 When you shape-shift you keep your armor, but loose your shield bonus unless your animal form can handle the shield (like a gorilla for example, but not a horse).
 If one of the moves the GM gives you in your altered form is a type of attack you **keep all your attack bonuses (if any) to attack**, but *damage* may be limited or enhanced by the form.
 
-
-<!-- _Note:_ When you have shape-shifted __you cannot speak with your allies unless the animal can__. A bear can nod or shake its head for simple yes or no, but not much else, for example. Your spirit animal, however, retains the ability to speak normally.  -->
-
 _Note:_ When you have shape-shifted, you can understand everything said to you in animal form so long as your character would be able to understand your allies if it were in humanoid form in the same place. For example if you shape-shift into a fish, you can somewhat hear and understand your allies speaking below the water, but those outside are mumbled and you can't make them out.
 
 Missing a Shape-shift roll: on a 6 or below you still shape-shift but __an unfortunate side effect__ also occurs. This may be anything, though a typical one is being unable to transform back (to a humanoid form or anything else) until you complete a simple innocuous action in the animal form. For example if you turn into a slippery fish to elude the grasp of a foe, but roll low. The DM can say you cannot transform back until you complete the move _Eat an insect_ till then you allies must find a way to get you into water or you'll suffocate as a fish on land.  
@@ -77,9 +74,6 @@ Python (The Stinking Mire)
 Animal Limitations:
   There are no tigers in the lands of the 7 kingdoms. They may not be chosen as an animal. Elephants are rare and belong to none of the Lands but if you meet one you may study their essence.
 
-<!-- Added Ability:  
-__Sprit Animal:__
-At the creation of the character select a spirit animal from your Land or Lands. Take a +1 forward when shapeshifting into this animal when you are inside your Lands. Unlike other animal forms you retain the ability to speak when you take your spirit animal's form. -->
 
 Modified Ability:  
 __Red of Tooth and Claw:__ (add this text) You may assume Dire version of animals.  
@@ -89,8 +83,6 @@ __Blood and Thunder:__ (add this text) You may assume Were versions of animals.
 ## Fighter:
 ![ElvenFighter][elvenfighter]
 ![DwarvenFighter][dwarvenfighter]
-<!-- Additional Advanced Move: (level 2-5)  
-**Clinch Fighter:**  Once per battle you can re-roll on one of *your* attack rolls but take -2 forward on the attack re-roll. -->
 
 Warriors, soldiers, and the famed defenders of the realm while many know how to fight the _fighter_ class is a true warrior, trained, honed, capable. Many fighters in the 7K don't do it as a full-time, many are farmers, builders, craftmen but all have the strength to protect civilization.
 
@@ -124,15 +116,17 @@ Deal 1d6 touch damage heal same amount.
 ## Ranger:
 ![Ranger2][ranger2]
 ![Ranger][ranger]  
-The trackers and scouts of the 7K, they can mostly be found on the fringes of civilization or in-between places.
+The trackers, scouts and hunters of the 7K, they can mostly be found on the fringes of civilization or in-between places. They have a connection with the land, few in civilized places do. 
 
 > `"Hear me. Never flee from a Ranger. Better to face them in battle immediately than to have them hunt you down..."  - Stalwart Warrior`
 
+---
 ## Wizard:
-They cover their faces and identities to protect their families. It can be hard to tell if they are female or male.  
+Wielders of arcane arts. They cover their faces and identities to protect their families. It can be hard to tell if they are female or male.  
 ![Wizard][wizard]
 > `"I don't much like them, but they come in handy in a pinch." -- Captain Friggard.`
 
+---
 ## Paladin:
 Some fight for glory, others for money, some even to safe-guard their families, their lands, their kingdoms, but the paladin fight for a calling to protect the defenseless.
 
@@ -143,11 +137,12 @@ Sample Paladin image by [SirTiefling](https://sirtiefling.deviantart.com/art/Tam
 
 > ` "Once they guarded the most precious... maybe they still do." - Wizard Jenkins`
 
-
 ---
 ## Thief:
 Quiet as as ghosts they prowl, maybe working for a living is not for them, maybe it is proving their worth, or maybe this is all they know how to do. Why toil in life when so many good things are just ripe for the taking?
-Maybe caravans full of riches travel your land, maybe they should pay a toll for that, and why not you to collect it?
+Caravans full of riches travel your land; maybe they should pay a toll for that, and why not you to collect it?
+
+> `"All adventures are thieves... just some are honest about it."` 
 
 <small> Thief from the Sand Kingdom.  </small>   
 ![ThiefSandKingdom][thief]
@@ -171,6 +166,31 @@ Since time immemorial civilized people have slept with one eye open on the horiz
 > `"I'm telling you, don't mess with the barbarians. They're not only uncivilized, they have no love for civilization..." -- Ral, Inn keeper River's Den`
 
 >`"Civilized nations never, never have selfish motives for butchering, raping and looting; only horrid barbarians have those..." -- Robert E. Howard`
+
+---
+
+## Multiclassing
+
+class | take move from class | name of move(s) | High Adv Moves 
+--- | --- | --- | ---
+barbarian | Fighter, Bard, Thief (except multiclass moves) | Appetite for Destruction |
+bard | Any (-1 level) | Multiclass Dabbler & Multiclass Initiate | Multiclass Master
+cleric | Any (-1 level) | | Mulitclass Dabbler
+druid | Ranger | Hunter's Brother | Stalker's Sister
+fighter | Any (-1 level) | Multiclass Dabbler | Multiclass Initiate
+paladin | Cleric Spells* | Divine Favor |
+ranger | Cleric Spells*, Any* (Special Trick only) | God Amid The Wastes | (Any w/ Animal) Special Trick |
+
+Moves that refer to level (like prepare spell) Count only the levels since you gained the multiclass move. (p. 31)
+
+multi-class themes | base class | move | new class move (and class)
+:--- | ---: | ---: | ---:
+_Battle Mage_ | Fighter | Multiclass Dabbler | Cast Spell (Wizard)
+_Angel Touched_ | Paladin | Divine Favor | Cleric Spells* (Cleric)
+_Rogue_ | Bard | Multiclass Dabbler | Trap Expert or Tricks of the Trade (Thief)
+_Nature's Protector_ | Druid | Hunter's Brother | God Amid the Wastes (Ranger)
+_Arcane Bard_ | Bard | Multiclass Dabbler | Cast Spell (Wizard)
+
 
 
 ---
