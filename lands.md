@@ -33,7 +33,7 @@ Among the ruins of long forgotten Kingdoms that the great dessert swallowed long
 
 ## The Wizard Principalities Archipelago
 ![WizardCity][wizardcity]
-A collection of small islands protected by magic and navigated by ferries, they specialize in trade of many kinds. The magical academy is in one of the bigger islands. A good place to visit but not stay too long as there are prone to be 'magical mishaps' and creatures that escape novice mages.
+A collection of small islands protected by magic and navigated by ferries, they specialize in trade of many kinds. The magical academy is in one of the bigger islands. A good place to visit but not stay too long as there are prone to be 'magical mishaps' and creatures that escape novice mages. While nobody knows the true number of wizards, the principalities are the smallest kingdom in population. 
 ![MageIsland][mageisland]
 
 ## Uncivilized Lands
@@ -51,13 +51,14 @@ These lands are mostly uninhabited:
 While we are used to industrial age prices where volume usually results in a discount, in the 7K world it's usually the opposite: the more of a durable good you want the more expensive each becomes. Every transaction with a merchant is unique since almost every item sold is unique. Food in the market being an exception, if you come at market close you can find way cheaper food and comestibles, unfortunately their quality is also suspect and you may get poisoned from it. Druids with their by Nature sustained ability can spot rotten food by smelling and touching it and can buy food at market close with a quick wisdom check. If they fail, no item was found at the market that was safe enough to eat.
 
 Most of the economy sustain by agriculture though because the 7 kingdoms lack large open fields it is mostly done by small farmers in small farms. Income in a kingdom is usually related to the amount of land under cultivation.
-The main crop of each kingdom is different.
-Cloud Kingdom: produces legumes and tubercles that they grow in ladder like farms in the fountains. They also trade in a strange colorful fur.
-River Kingdom: rice and swamp plants
-Alaria: Golden wheat
-Mountain Kingdom: Mushrooms and sheep.
-Sand Kingdom: Little grows here in the way of agricultural produce... however they are the only kingdom from where the halfling's weed is produced, and as the name says the halflings love it.
-Wizard Kingdom: Everything is grown here, if you look hard enough. But as a kingdom they are a great consumer and an almost negligible producer.
+
+The main crop of each kingdom is different:
+- **Cloud Kingdom:** produces legumes and tubercles that they grow in ladder-like farms in the fountains. They also trade in a strange colorful fur.
+- **River Kingdom:** Rice (and poisons of all types).
+- **Alaria:** Golden wheat.
+- **Mountain Kingdom:** Mushrooms, cheese and sheep fur.
+- **Sand Kingdom:** Little grows here in the way of agricultural produce... however, they are the only kingdom from where the halfling's leaf is produced, and as the name says the halflings love it.
+- **Wizard's Principalities:** Everything is grown here, if you look hard enough. But, as a land, they are a great consumer and an almost negligible producer. In exchange they are the only magical producer in the kingdoms. 
 
 **Inhospitable Dungeons:** Treasures lie in dungeons because they're not easy to get. Either they are guarded or maybe because traveling below the earth in stifling air, and possibly toxic circumstances can be injurious to one's health. Some dungeons don't have enough air to breath, or the air is tainted with poisonous spores or their fragmented floors make walking treacherous and sharp edges likely to bite and tear and extract a price of those that delve into them.  
 Making camp in an inhospitable environment is impossible.

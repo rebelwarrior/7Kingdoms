@@ -17,7 +17,7 @@ If one of the moves the GM gives you in your altered form is a type of attack yo
 
 _Note:_ When you have shape-shifted, you can understand everything said to you in animal form so long as your character would be able to understand your allies if it were in humanoid form in the same place. For example if you shape-shift into a fish, you can somewhat hear and understand your allies speaking below the water, but those outside are mumbled and you can't make them out.
 
-Missing a Shape-shift roll: on a 6 or below you still shape-shift but __an unfortunate side effect__ also occurs. This may be anything, though a typical one is being unable to transform back (to a humanoid form or anything else) until you complete a simple innocuous action in the animal form. For example if you turn into a slippery fish to elude the grasp of a foe, but roll low. The DM can say you cannot transform back until you complete the move _Eat an insect_ till then you allies must find a way to get you into water or you'll suffocate as a fish on land.  
+Missing a Shape-shift roll: on a 6 or below you still shape-shift but __an unfortunate side effect__ also occurs. This may be anything, though a typical one is being unable to transform back (to a humanoid form or anything else) until you complete a simple innocuous action in the animal form. For example if you turn into a slippery fish to elude the grasp of a foe, but roll low. The DM can say you cannot transform back until you complete the move _Eat an insect_. Until you do, your allies must find a way to get you into water or you'll suffocate as a fish on land.  
 
 Lands:  
 - The Great Forest  
