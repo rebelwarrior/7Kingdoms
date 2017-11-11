@@ -172,7 +172,7 @@ Since time immemorial civilized people have slept with one eye open on the horiz
 ## Multiclassing
 
 class | take move from class | name of move(s) | High Adv Moves 
---- | --- | --- | ---
+--- | :---: | --- | ---
 barbarian | Fighter, Bard, Thief (except multiclass moves) | Appetite for Destruction |
 bard | Any (-1 level) | Multiclass Dabbler & Multiclass Initiate | Multiclass Master
 cleric | Any (-1 level) | | Mulitclass Dabbler
@@ -181,10 +181,10 @@ fighter | Any (-1 level) | Multiclass Dabbler | Multiclass Initiate
 paladin | Cleric Spells* | Divine Favor |
 ranger | Cleric Spells*, Any* (Special Trick only) | God Amid The Wastes | (Any w/ Animal) Special Trick |
 
-Moves that refer to level (like prepare spell) Count only the levels since you gained the multiclass move. (p. 31)
+> Moves that refer to level (like prepare spell) Count only the levels since you gained the multiclass move. (p. 31)
 
 multi-class themes | base class | move | new class move (and class)
-:--- | ---: | ---: | ---:
+:--- | :---: | ---: | ---:
 _Battle Mage_ | Fighter | Multiclass Dabbler | Cast Spell (Wizard)
 _Angel Touched_ | Paladin | Divine Favor | Cleric Spells* (Cleric)
 _Rogue_ | Bard | Multiclass Dabbler | Trap Expert or Tricks of the Trade (Thief)

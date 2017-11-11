@@ -63,7 +63,7 @@ _Shapeshifter_ | Druid
 _Fire Child_ | Immolator 
 Smasher | Barbarian
 _Strider_ | Ranger
-Archer | Ranger 
+_Archer_ | Ranger 
 
 Dragon-Child | Immolator
 Fire-Blooded | Immolator
