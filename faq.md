@@ -1,3 +1,9 @@
+---
+layout: page
+title: FAQ
+permalink: /faq/
+---
+
 # Frequently Asked Questions
 
 ### Are there other wizards?

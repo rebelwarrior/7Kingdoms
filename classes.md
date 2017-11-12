@@ -88,7 +88,7 @@ Warriors, soldiers, and the famed defenders of the realm while many know how to 
 
 > `"The spit and blood fill your mouth, dirt bites your eyes and yet, one simply does not give up." - King Rodus of Alaria`
 
-To be an Martial-Artist-type fighter you may trade the Fighter's _Armored_ move for the Barbarian's _Unencumbered, Unharmed_ at character creation and select _fists_ with _Versitile_ and _Perfectly weighted_ enhancements for your _Signature Weapon_ move. While wearing no armor, your fists additionally gain the _forceful_ tag, but your fists may never take the _Huge_ enhancement. 
+To be an **Martial-Artist-type fighter** you may trade the Fighter's _Armored_ move for the Barbarian's _Unencumbered, Unharmed_ at character creation and select _fists_ with _Versitile_ and _Perfectly weighted_ enhancements for your _Signature Weapon_ move. While wearing no armor, your fists additionally gain the _forceful_ tag, but your fists may never take the _Huge_ enhancement. 
 
 ---
 ## Cleric (Exorcist/Necromancer):
